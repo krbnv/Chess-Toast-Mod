@@ -194,5 +194,3 @@ Ilova ishga tushirilganda `Salom dunyo` Toast xabari muvaffaqiyatli chiqdi.
 
 ![Toast natijasi](toast_result.png)
 
-qo‘shamiz.
-
