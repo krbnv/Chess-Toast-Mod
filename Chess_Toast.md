@@ -190,23 +190,9 @@ Ilova ochildi
 
 ## Natija rasmi
 
-Oxirida Toast chiqayotgan holatning screenshotini GitHub repository’ga yuklash kerak.
-
-Masalan rasm nomini:
-
-```text
-toast_result.png
-```
-
-qilib saqlaymiz.
-
-README oxiriga:
-
-```md
-## Natija
+Ilova ishga tushirilganda `Salom dunyo` Toast xabari muvaffaqiyatli chiqdi.
 
 ![Toast natijasi](toast_result.png)
-```
 
 qo‘shamiz.
 
