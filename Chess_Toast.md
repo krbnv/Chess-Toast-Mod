@@ -195,7 +195,7 @@ Oxirida Toast chiqayotgan holatning screenshotini GitHub repository’ga yuklash
 Masalan rasm nomini:
 
 ```text
-toast-result.png
+toast_result.png
 ```
 
 qilib saqlaymiz.
@@ -205,9 +205,8 @@ README oxiriga:
 ```md
 ## Natija
 
-![Toast natijasi](toast-result.png)
+![Toast natijasi](toast_result.png)
 ```
 
 qo‘shamiz.
 
-Shunda GitHub’da `.md` faylning oxirida Toast chiqayotgan natija rasmi ko‘rinadi.
